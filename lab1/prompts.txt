@@ -1,0 +1,63 @@
+Using AI to generate E mail:
+
+AI Used: Google Gemini
+
+Prompt:
+
+Im the registrar from rv University
+i want to convey the faculty and students to change the sankranti holiday from 14th Jan wed to 15th Jan Thursday
+make the mail sound professional
+limit the words bw 180-200
+
+
+
+Using AI to generate poster:
+
+AI Used: Google Gemini
+
+Prompt: 
+
+Create a poster for republic day celebration at rv University on Jan 26
+Indian style patriotic theme
+subtle tri colour background
+High-resolution, poster-style design
+venue main ground
+time 8am onwards
+dress code white
+
+
+Using AI to generate 30 second short video:
+
+AI Used: Fliki AI
+
+Prompt: 
+
+Create a short video for republic day celebration at RV University on Jan 26
+Indian style patriotic theme
+Cinematic theme video
+Keep enthusiastic tone
+Use cartoon characters to represent people
+Use high resolution video
+The video must be 30 secs long
+
+
+Using AI to generate 2 minute long story video:
+
+AI Used: Invideo AI
+
+Prompt: 
+
+“Harry Potter is born to two powerful wizards, James and Lily Potter, who are killed by the dark wizard Voldemort. When Voldemort tries to murder baby Harry, the curse rebounds and destroys Voldemort’s body instead, leaving Harry with a lightning-shaped scar. Harry grows up with his cruel relatives, unaware of his magical past.
+At age eleven, Harry learns he is a wizard and begins attending Hogwarts School of Witchcraft and Wizardry. There he befriends Ron Weasley and Hermione Granger and discovers he is famous for surviving Voldemort. Over the years, Harry repeatedly faces dangers connected to Voldemort’s attempts to return to power. He battles magical creatures, uncovers dark secrets, and survives deadly trials, including a tournament that leads to Voldemort’s full resurrection.
+Harry learns of a prophecy that says either he or Voldemort must die. He also discovers that Voldemort has split his soul into Horcruxes to make himself immortal. Along with Ron and Hermione, Harry leaves Hogwarts to search for and destroy these objects. Their journey is filled with fear, betrayal, and sacrifice.
+Eventually, Voldemort attacks Hogwarts, and a final battle erupts. Harry realizes one Horcrux lives inside him, so he allows Voldemort to kill him, destroying that piece of Voldemort’s soul. Harry survives and returns to fight. With the Horcruxes gone, Voldemort is finally defeated when his own curse rebounds again.
+Harry grows up to become a hero who brings peace back to the wizarding world.”
+
+generate a video for this story
+include dynamic images
+include voiceover audio
+make the video 2 minutes long
+Cinematic theme video
+Keep the tone narrative 
+Use realistic characters to represent people
+Use high resolution video
